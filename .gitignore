@@ -1,3 +1,6 @@
 GITHUBSSH
 GITHUBSSH.pub
 GITHUBSSH
+.idx
+.dockerignore
+Dockerfile
