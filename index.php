@@ -1,2 +1,2 @@
 <?php
-    echo "Hello World";
+    "Welcome to REST-API APP";
