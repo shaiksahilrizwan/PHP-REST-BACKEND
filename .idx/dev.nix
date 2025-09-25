@@ -8,6 +8,8 @@
     pkgs.php
     pkgs.openssh
   ];
+  services.mysql.enable = true;
+  services.mysql.package = pkgs.mysql80;
   # Sets environment variables in the workspace
   env = {};
   idx = {
